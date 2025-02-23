@@ -6,7 +6,7 @@
 body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
-    background-color:#f8eaea;
+    background-color:#3b3b2e;
     
 }
 @keyframes example{
@@ -84,6 +84,7 @@ input[type=submit] {
     cursor: pointer;
     -webkit-border-radius: 5px;
     border-radius: 5px;
+    font-size:20px;
   }.foot{
     color:rgb(0, 0, 0);
     font-size:20px;
