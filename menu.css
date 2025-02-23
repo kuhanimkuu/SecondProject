@@ -156,3 +156,9 @@ th {
     margin: 0 1rem;
     word-spacing:40px;
 }
+.foot{
+    color:aliceblue;
+    font-size:20px;
+    text-align:center;
+    margin-top:10%;
+}

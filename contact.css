@@ -84,4 +84,8 @@ input[type=submit] {
     cursor: pointer;
     -webkit-border-radius: 5px;
     border-radius: 5px;
-  }
+  }.foot{
+    color:rgb(0, 0, 0);
+    font-size:20px;
+    text-align:center;
+}

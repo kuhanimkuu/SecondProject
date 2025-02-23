@@ -81,4 +81,8 @@ h1{
     text-align:center;
     width:80%;
     font-style:oblique;
+}.foot{
+    color:aliceblue;
+    font-size:20px;
+    text-align:center;
 }
